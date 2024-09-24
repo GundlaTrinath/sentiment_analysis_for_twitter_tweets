@@ -1,2 +1,2 @@
 ## sentiment_analysis_for_twitter_tweets
-datasetfrom kaggle : https://www.kaggle.com/datasets/kazanova/sentiment140
+dataset from kaggle : https://www.kaggle.com/datasets/kazanova/sentiment140
